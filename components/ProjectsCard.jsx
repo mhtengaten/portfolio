@@ -12,6 +12,22 @@ const ProjectsCard = ({ data }) => {
 					<CardBody>
 						<div className="d-flex px-3">
 							<div className="pl-4">
+								<img
+									src={data.companylogo}
+									style={{
+										objectFit: "cover",
+										left: 0,
+										right: 0,
+										top: "3rem",
+										marginLeft: "auto",
+										marginRight: "auto",
+										width: "4rem",
+										height: "4rem",
+										borderRadius: "50%",
+									}}
+									className="shadow mb-3"
+									alt={data.companylogo}
+								/>
 								<h3>{data.name}</h3>
 								<p className="description mt-3">{data.desc}</p>
 								{data.github ? (
