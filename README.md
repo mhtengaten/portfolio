@@ -111,7 +111,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 -   Website: https://mhtengaten.netlify.app
 -   Twitter: [@mhtengaten](https://twitter.com/mhtengaten)
 -   Github: [@mhtengaten](https://github.com/mhtengaten)
--   LinkedIn: [@mhtengaten](https://linkedin.com/in/mhtengaten)
+-   LinkedIn: [@mhtengaten](https://linkedin.com/in/marcos-tengaten-63480323b)
 
 ## Show your support
 
