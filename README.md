@@ -1,21 +1,21 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<a href="https://github.com/mhtengaten/portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/mhtengaten/portfolio"></a><a href="https://github.com/mhtengaten/portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/mhtengaten/portfolio"></a><a href="https://github.com/mhtengaten/portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mhtengaten/portfolio"></a> <a href="https://github.com/mhtengaten/portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mhtengaten/portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/mhtengaten/portfolio/blob/master/picture.PNG"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+### To view a live example, **[click here](https://mhtengaten.netlify.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/mhtengaten/portfolio/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/mhtengaten/portfolio/pulls).
 
 ## Table of Contents
 
@@ -54,11 +54,11 @@ git@2.17.1 or higher
 
 ## How To Use
 
-From your command line, clone and run developer-portolio:
+From your command line, clone and run portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone https://github.com/mhtengaten/portfolio.git
 
 # Go into the repository
 $ cd developer-portfolio
@@ -106,12 +106,12 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Marcos Tengaten**
 
--   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Website: https://mhtengaten.netlify.app
+-   Twitter: [@mhtengaten](https://twitter.com/mhtengaten)
+-   Github: [@mhtengaten](https://github.com/mhtengaten)
+-   LinkedIn: [@mhtengaten](https://linkedin.com/in/mhtengaten)
 
 ## Show your support
 

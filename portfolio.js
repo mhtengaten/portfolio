@@ -349,14 +349,14 @@ export const projects = [
 		companylogo: "/img/icons/common/web-link.png",
 		name: "FestBlast",
 		desc: "FestBlast is an all-in-one platform that lets you easily find the best music fests, organize your trip and personalize your festival experience.",
-		// github: "https://github.com/1hanzla100",
+		// github: "https://github.com/mhtengaten",
 		link: "https://festblast.com",
 	},
 	{
 		companylogo: "/img/icons/common/web-link.png",
 		name: "Reservise",
 		desc: "A mobile application, which allows for online reservation of courts and managing your reservations.",
-		// github: "https://github.com/1hanzla100",
+		// github: "https://github.com/mhtengaten",
 		link: "http://reservise.com/",
 	},
 	{
@@ -364,7 +364,7 @@ export const projects = [
 		name: "Developer-Portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
 		github: "https://github.com/mhtengaten/portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		link: "https://mhtengaten.netlify.app/",
 	},
 	{
 		companylogo: "/img/icons/common/web-link.png",
